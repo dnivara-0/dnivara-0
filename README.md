@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Raja Aravind Pulagam
 
-I'm a passionate **Salesforce Marketing Cloud Developer** with a strong background in crafting powerful and engaging marketing solutions. Currently, I'm focusing on expanding my technical skill set to include full-stack web development, working on my first personal website.
+I'm a passionate **Salesforce Marketing Cloud Developer** with a strong background in crafting powerful and engaging marketing solutions.
 
 ### 🌟 About Me
 - 💼 **Profession**: Salesforce Marketing Cloud Developer
